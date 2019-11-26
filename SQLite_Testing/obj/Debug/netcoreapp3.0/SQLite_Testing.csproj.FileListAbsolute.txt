@@ -1,0 +1,17 @@
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\SQLite_Testing.exe
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\obj\Debug\netcoreapp3.0\SQLite_Testing.csprojAssemblyReference.cache
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\obj\Debug\netcoreapp3.0\SQLite_Testing.AssemblyInfoInputs.cache
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\obj\Debug\netcoreapp3.0\SQLite_Testing.AssemblyInfo.cs
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\SQLite_Testing.deps.json
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\SQLite_Testing.runtimeconfig.json
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\SQLite_Testing.runtimeconfig.dev.json
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\SQLite_Testing.dll
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\SQLite_Testing.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\System.Data.SQLite.dll
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\obj\Debug\netcoreapp3.0\SQLite_Testing.csproj.CopyComplete
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\obj\Debug\netcoreapp3.0\SQLite_Testing.dll
+C:\Users\Diesel\Documents\c sharp workspaces\SQLite_Testing\SQLite_Testing\SQLite_Testing\obj\Debug\netcoreapp3.0\SQLite_Testing.pdb
